@@ -1,0 +1,13 @@
+1.Collecting the relevant dataset for  covid-19 cases all over India from a trusted open-source site.
+2.Graphical visualization and analysis of the collected data and examining the top 5 worst –affected states and the least state/UT  of India Affected by covid-19 with the Total Number of Confirmed active cases as the main parameter. The graphical representation was done using Matplotlib and Seaborn Libraries in Python.
+3.Splitting of the datasets into training and test datasets of the original dataset according to the targeted states.
+4.Transforming the values of Confirmed cases to make it uniform across the timeline by applying natural Log function. Using sci-kit Machine Learning Library in Python to generate Machine Learning Models.
+5.Training the Machine Learning Models by Applying Linear ,Decision Tree and Support vector Regression Algorithm to the same training set and checking their accuracy and degree of error when the testing data is given.       
+
+
+
+Select Target state and split data into train and test sets
+
+
+
+Covid-19 dataset link from Kaggle:https://www.kaggle.com/anshumanpatri/covid-19-indiacsv?select=covid_19_india.csv
